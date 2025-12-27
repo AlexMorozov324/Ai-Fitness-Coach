@@ -1,0 +1,2 @@
+We discussed our progress on the project and our idea, and we concluded that we need to add an “edge” to our project to make it unique and different from other AI coach projects.
+We also organized our meeting schedule in the calendar.
